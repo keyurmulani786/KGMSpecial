@@ -1,0 +1,21 @@
+package::Email
+smtp ssl and tls example
+pop through example
+Imap through example
+
+package::
+algorithm
+
+map
+stack
+queue
+list
+arraylist
+linkedlist -single -double
+heap
+hash
+graph
+tree
+sorting-- bubble , quick , merge , insertion ,binary , selection 
+
+
